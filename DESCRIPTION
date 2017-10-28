@@ -4,7 +4,7 @@ Version: 0.0.1
 Authors@R: person("Elisa", "von Marschall", email = "elisa.e.bennett@gmail.com", role = c("aut", "cre"))
 Description: Using rvest, the functions in this package can be used to scrape song lyrics by singer from letras.com (other websites in the future)
 Depends: R (>= 3.4.1)
-Imports: rvest, purrr
+Imports: rvest, purrr, xml2
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
